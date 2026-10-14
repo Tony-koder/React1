@@ -1,0 +1,8 @@
+.dish {
+    display: grid;
+    margin: 10vh;
+    padding: 3vh;
+    background-color: ghostwhite;
+    gap: 5%;
+    color: darkblue;
+}
