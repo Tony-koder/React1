@@ -1,4 +1,4 @@
-import Dish from "./dish";
+import Dish from "./Dish.jsx";
 import './Menu.css'
 
 export default function Menu(props) {
