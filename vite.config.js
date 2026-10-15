@@ -5,5 +5,5 @@ import { defineConfig } from "vite";
 export default defineConfig({
   plugins: [react()],
   base: "/React1/",
-  server: { watch: { usePolling: true } },
+  // server: { watch: { usePolling: true } },
 });
