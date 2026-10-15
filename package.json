@@ -1,6 +1,7 @@
 {
   "name": "react1",
   "private": true,
+  "homepage": "https://tony-koder.github.io/React1/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
